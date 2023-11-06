@@ -1,5 +1,6 @@
 {
   "name": "recipes",
+  "webDir": "build",
   "integrations": {
     "capacitor": {}
   },
